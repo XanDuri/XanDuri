@@ -19,8 +19,8 @@
 ### 🚀 About me
 
 - 🛡️ Working toward a **SOC L1 Analyst** role — hands-on with SIEM, packet analysis, and detection
-- 🧪 Grinding labs on **TryHackMe** (`XanDuri` — Adept, Top 15%) and a home AD/Wazuh lab
-- 🎓 Finishing my MSc thesis: a 2.5D RPG built in **Godot 4** with a custom adaptive AI system
+- 🧪 Grinding labs on **TryHackMe** (`XanDuri` — MAGE, Top 4%) and a home AD/Wazuh lab
+- 🎓 Finished my MSc thesis: a 2.5D RPG built in **Godot 4** with a custom adaptive AI system
 - 🎮 Solo developer of **NINTH** — a pixel-art RPG starring a sarcastic black cat
 - 🎨 Running the **B1nk** animated channel
 - 🐱 Powered by coffee and one black cat named Pike

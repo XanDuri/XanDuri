@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/XanDuri">
-    <img src="https://raw.githubusercontent.com/XanDuri/XanDuri/main/assets/tryhackme.png" alt="TryHackMe Badge"/>
+    <img src="https://img.shields.io/badge/TryHackMe-View_my_profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
 </p>
 

@@ -10,20 +10,50 @@
 </p>
 
 <p align="center">
-  Computer Science MSc student from Olsztyn, Poland — building a career in cybersecurity
-  while shipping games and animation on the side.
+  Computer Science MSc (Eng.) specialised in IT systems & network design — based in Olsztyn, Poland.
+  Building a career in cybersecurity while shipping games and animation on the side.
 </p>
 
 ---
 
 ### 🚀 About me
 
-- 🛡️ Working toward a **SOC L1 Analyst** role — hands-on with SIEM, packet analysis, and detection
-- 🧪 Grinding labs on **TryHackMe** (`XanDuri` — MAGE, Top 4%) and a home AD/Wazuh lab
-- 🎓 Finished my MSc thesis: a 2.5D RPG built in **Godot 4** with a custom adaptive AI system
+- 🛡️ Building toward a **SOC L1 Analyst** role — hands-on with SIEM, packet analysis, and detection
+- 🌐 Academic background in **computer networks & IT systems design** — a strong base for security work
+- 🧪 Active on **TryHackMe** and a self-built AD / Wazuh home lab
 - 🎮 Solo developer of **NINTH** — a pixel-art RPG starring a sarcastic black cat
 - 🎨 Running the **B1nk** animated channel
 - 🐱 Powered by coffee and one black cat named Pike
+
+---
+
+### 🎓 Education
+
+- **MSc, Eng. (mgr inż.) — Computer Science** · University of Warmia and Mazury in Olsztyn
+  *Specialisation: Design of IT Systems & Computer Networks*
+- **BSc, Eng. (inż.) — Computer Science** · University of Warmia and Mazury in Olsztyn
+- **IT Technician diploma (Technik Informatyk)** — vocational qualifications **EE.08** & **EE.09**
+
+<sub>Relevant coursework: Computer Networks · Advanced Computer Networks · Network Design · IT Systems Design · Operating Systems · Databases & Advanced Databases · Software Engineering · AI Systems · IoT</sub>
+
+---
+
+### 🛡️ TryHackMe
+
+<p align="center">
+  <a href="https://tryhackme.com/p/XanDuri">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/XanDuri.png" alt="TryHackMe Badge"/>
+  </a>
+</p>
+
+**Focus areas I've worked through:**
+
+- **SOC / Blue Team** — SOC Fundamentals, Alert Triage & Reporting, SIEM, Splunk, Elastic Stack, Incident Response, Phishing Analysis, EDR
+- **Network analysis** — Wireshark, tcpdump, Snort, NetworkMiner, traffic & anomaly detection
+- **Offensive basics** — Nmap, Metasploit, Hydra, John the Ripper, SQLMap, Gobuster, Burp Suite
+- **Frameworks** — MITRE ATT&CK, Cyber Kill Chain, Unified Kill Chain, Pyramid of Pain, OWASP Top 10
+
+🏅 *Badges include:* Cyber Ready · SOC Apprentice · Defensive Toolsmith · Blue · Metasploitable · Wireshark · Network Hog · Phish Hunter · OWASP Top 10 · 30-Day Streak
 
 ---
 
@@ -67,9 +97,9 @@
 
 ---
 
-### 🎯 Currently learning
+### 🎯 Currently working toward
 
-Working through these on the road to SOC L1:
+Certifications on the path to SOC L1:
 
 `(ISC)² CC` &nbsp;•&nbsp; `CompTIA Security+` &nbsp;•&nbsp; `Microsoft SC-900 / SC-200` &nbsp;•&nbsp; `Google Cybersecurity`
 
@@ -78,6 +108,7 @@ Working through these on the road to SOC L1:
 ### 🤝 Connect
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Xan_Duri)
-<!-- Add your real links below, or delete the ones you don't want public -->
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@B1nkHQ)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/XanDuri)
+<!-- Optional — uncomment and add your handle if you want it public -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle) -->

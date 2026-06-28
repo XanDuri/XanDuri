@@ -100,8 +100,9 @@
 | Project | What it is |
 | --- | --- |
 | 🛡️ [**cybersec-cheat-sheets**](https://github.com/XanDuri/cybersec-cheat-sheets) | Clean, practical cheat sheets for common security & pentesting tools |
-| 🎮 **NINTH** | Pixel-art RPG built in Godot 4 (C#) — a black cat and a Nine Lives mechanic |
+| 🎮 **NINTH** | Pixel-art RPG built in Godot 4 (C#) — a black cat and a Nine Lives mechanic /on hold|
 | 🎨 **B1nk** | Animated YouTube channel |
+| 🛡️ [**home-soc-lab**](https://github.com/XanDuri/home-soc-lab) | Isolated AD + Wazuh SIEM lab — detection engineering & SOC triage |
 
 ---
 

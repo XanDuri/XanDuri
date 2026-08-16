@@ -132,7 +132,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
 
 Certifications on the path to SOC L1:
 
-`(ISC)² CC` &nbsp;•&nbsp; `Microsoft SC-900` &nbsp;•&nbsp; `Google Cybersecurity` &nbsp;•&nbsp; `CompTIA Security+` &nbsp;•&nbsp; `Microsoft SC-200`
+`CompTIA Security+` &nbsp;
 
 ---
 

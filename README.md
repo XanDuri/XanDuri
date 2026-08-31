@@ -45,7 +45,7 @@ IT Systems Design · Computer Systems Design · Operating Systems · Advanced Da
 Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professional Internship (160h each)</sub>
 
 ---
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f05bfc3-a1c8-432a-a236-7d238bc6fc04" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 ### 🛡️ TryHackMe &nbsp;<img src="https://img.shields.io/badge/Top_4%25-90+_rooms-212C42?style=flat&logo=tryhackme&logoColor=white" alt="Top 4%"/>
 

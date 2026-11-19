@@ -28,7 +28,7 @@
 - 🎓 **CompTIA Security+ (SY0-701)** and the **TryHackMe SOC Level 1** path — now working through **SOC Level 2**
 - 🌐 MSc specialised in **network & systems design** — the exact foundation SOC work is built on (AD, segmentation, traffic analysis)
 - 🧪 **TryHackMe Top 2%** (150+ rooms) and a self-built, fully isolated **Active Directory + Wazuh** SOC home lab
-- 🐍 Writing Python tools for analysts — like a generator that turns Wazuh/Sysmon alerts into incident reports
+- 🐍 Writing Python tools for analysts — an incident-report generator for Wazuh/Sysmon alerts and **java4shell-check**, a Java4Shell (CVE-2026-114938) checker built the day after disclosure
 - 🎮 Solo developer of **NINTH** — a pixel-art RPG starring a sarcastic black cat
 - 🎨 Running the **B1nk** animated channel
 - 🐱 Powered by coffee and one black cat named Pike
@@ -128,6 +128,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
 | --- | --- |
 | 🛡️ [**home-soc-lab**](https://github.com/XanDuri/home-soc-lab) | Isolated **Active Directory + Wazuh SIEM** lab — 6 attack scenarios with detections, 5 custom tuned rules, SOC-style reports mapped to MITRE ATT&CK |
 | 🐍 [**soc-report-generator**](https://github.com/XanDuri/soc-report-generator) | Python CLI that turns **Wazuh/Sysmon JSON alerts** into a Markdown incident report — IOC extraction (private IPs filtered out), technique → tactic mapping from official **MITRE ATT&CK STIX data** (mitreattack-python), recommendations in kill-chain order |
+| 🔎 [**java4shell-check**](https://github.com/XanDuri/java4shell-check) | Read-only CLI that checks a host for **Java4Shell (CVE-2026-114938)** — combines Java version & vendor, CPU flags (AVX-512 VBMI) and JVM settings into one verdict with exit codes; 24 pytest tests. Found 3 bundled "shadow" Java runtimes on my own PC |
 | 🛡️ [**cybersec-cheat-sheets**](https://github.com/XanDuri/cybersec-cheat-sheets) | Clean, practical cheat sheets for 30+ security & pentesting tools |
 | 🎮 **NINTH** | Pixel-art RPG built in Godot 4 (C#) — a black cat and a Nine Lives mechanic *(on hold)* |
 | 🎨 **B1nk** | Animated YouTube channel |
@@ -144,7 +145,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
  
 ### 🎯 Currently working toward
  
-`TryHackMe SOC Level 2` &nbsp; `Splunk & Elastic SOC labs` &nbsp; `Real Wazuh alerts in soc-report-generator`
+`TryHackMe SOC Level 2` &nbsp; `Splunk & Elastic SOC labs` &nbsp; `java4shell-check --deep scan` &nbsp; `Real Wazuh alerts in soc-report-generator`
  
 ---
  

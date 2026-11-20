@@ -1,18 +1,14 @@
-
-<!--
-  GitHub Profile README  →  repo named  XanDuri/XanDuri
-  Commit this file as README.md
--->
- 
 <h1 align="center">Hi, I'm Łukasz 👋 <span>(@XanDuri)</span></h1>
  
 <p align="center">
   🛡️ Junior <b>SOC / Security Analyst</b> &nbsp;•&nbsp; 🎮 Indie game dev &nbsp;•&nbsp; 🎨 Animator
 </p>
+
 <p align="center">
   Computer Science MSc (Eng.) specialised in <b>network &amp; IT-systems design</b> — based in Olsztyn, Poland (open to remote, hybrid or relocation).<br/>
   Turning a networking-engineering background into a cybersecurity career, one detection rule at a time.
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat" alt="CompTIA Security+"/>
   <img src="https://img.shields.io/badge/TryHackMe-SOC_Level_1-212C42?style=flat&logo=tryhackme&logoColor=white" alt="THM SOC Level 1"/>
@@ -20,6 +16,7 @@
   <img src="https://img.shields.io/badge/English-C2_(EF_SET_73)-005C99?style=flat" alt="English C2"/>
   <img src="https://img.shields.io/badge/Status-Open_to_work-2ea44f?style=flat" alt="Open to work"/>
 </p>
+
 ---
  
 ### 🚀 About me
@@ -32,6 +29,7 @@
 - 🎮 Solo developer of **NINTH** — a pixel-art RPG starring a sarcastic black cat
 - 🎨 Running the **B1nk** animated channel
 - 🐱 Powered by coffee and one black cat named Pike
+
 ---
  
 ### 🏅 Certifications
@@ -52,6 +50,7 @@
   *Specialisation: Design of IT Systems & Computer Networks*
 - **BSc, Eng. (inż.) — Computer Science** · University of Warmia and Mazury in Olsztyn · 2021–2025
 - **IT Technician diploma (Technik Informatyk)** — vocational qualifications **EE.08** & **EE.09**
+
 <sub><b>Security-relevant coursework:</b> Computer Networks · Advanced Computer Networks · Network Design ·
 IT Systems Design · Computer Systems Design · Operating Systems · Advanced Databases ·
 Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professional Internship (160h each)</sub>
@@ -65,6 +64,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
     <img src="https://img.shields.io/badge/TryHackMe-View_my_profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
 </p>
+
 **Focus areas I've worked through:**
  
 - **SOC / Blue Team** — Alert Triage & Reporting, SIEM, Splunk (SPL, props/transforms), Elastic (KQL, EQL), Incident Response, Phishing Analysis, EDR, Windows & Linux threat detection
@@ -74,6 +74,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
 - **Vulnerabilities & offensive basics** — CVE/CVSS, vulnerability scanning, Nmap, Metasploit (Blue / MS17-010), Hydra, John the Ripper, SQLMap, Gobuster, Burp Suite, OWASP Top 10 2025
 - **AI security** — prompt injection, jailbreaking, RAG security, AI supply chain (White Rabbit, LLMborghini, Lockdown)
 - **Frameworks** — MITRE ATT&CK, Cyber Kill Chain, Unified Kill Chain, Pyramid of Pain
+
 🏅 *Badges include:* Cyber Ready · SOC Apprentice · Defensive Toolsmith · Blue · Metasploitable · Wireshark · Network Hog · Phish Hunter · OWASP Top 10 · Streak
  
 ---
@@ -141,6 +142,7 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XanDuri&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanDuri&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
+
 ---
  
 ### 🎯 Currently working toward
@@ -155,4 +157,3 @@ Software Engineering · AI Systems · IoT · Embedded Systems · 2× Professiona
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/XanDuri)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Xan_Duri)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@B1nkHQ)
- 
